@@ -1,12 +1,12 @@
 # Personal-site
 
-![personal portefolio image example](https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
+![personal portefolio image example](https://github.com/tiagomonteiro0715/personal-website/blob/main/docs-image.png)
 
 [Personal portefolio link](https://tiagomonteiro0715.github.io/personal-website/)
 
 -----
 
-The motivation behind this project was to gain a better understanding of the fundamentals of web developement. And to create a website to showcase my projects.
+In order to gain a greater knowledge of the fundamentals of web development, this project served as a learning experience. In addition to creating a website that I can use to showcase my work
 
 
 -----
@@ -20,12 +20,16 @@ Javascript libraries used
 
 -----
 
-The code in this repository originated from a [template](https://html5up.net/miniport) in the website [html5](https://html5up.net)
+The code in this repository originated from [here](https://html5up.net/miniport) and [here](https://html5up.net/phantom) in the website [html5](https://html5up.net)
 
 Make sure you visited their website :)
 
 -----
 
-Started on 10/03/2021
+[Link to older personal portefolio](https://github.com/tiagomonteiro0715/old-personal-portefolio)
 
-Maintained since 31/03/2021
+-----
+
+Started on 01/08/2021
+
+Maintained since 05/08/2021
