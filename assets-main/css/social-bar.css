@@ -3,7 +3,7 @@
     margin: 0px;
     position: fixed;
     right: -130px;
-    top: 230px;
+    top: 450px;
     width: 210px;
     z-index: 1100;
 }
@@ -11,7 +11,7 @@
 .sticky li {
     list-style-type: none;
     background-color: #fff;
-    color: #efefef;
+    color: #fff;
     height: 43px;
     padding: 0px;
     margin: 0px 0px 1px 0px;
@@ -23,7 +23,7 @@
 }
 
 .sticky li:hover {
-    margin-left: -5px;
+    margin-left: -10px;
 }
 
 .sticky li img {
@@ -41,14 +41,4 @@
     margin: 5px;
     line-height: 16px;
     font-size: 11px;
-}
-
-.sticky li p a {
-    text-decoration: none;
-    color: #2C3539;
-}
-
-.sticky li p a:hover {
-    text-decoration: underline;
-    outline-color: red;
 }
